@@ -1,0 +1,53 @@
+2017-07-15 21:47:20.733 [restartedMain] DEBUG net.bubblyyi.base.config.listener.ApplicationEventListener - 初始化环境变量
+2017-07-15 21:47:23.642 [restartedMain] INFO  net.bubblyyi.base.Application - Starting Application on USER-20160904YG with PID 6716 (D:\ideaWorkSpace\BookManagement_Bubblyyi\target\classes started by Administrator in D:\ideaWorkSpace\BookManagement_Bubblyyi)
+2017-07-15 21:47:23.644 [restartedMain] DEBUG net.bubblyyi.base.Application - Running with Spring Boot v1.4.2.RELEASE, Spring v4.3.4.RELEASE
+2017-07-15 21:47:23.645 [restartedMain] INFO  net.bubblyyi.base.Application - No active profile set, falling back to default profiles: default
+2017-07-15 21:47:24.068 [restartedMain] DEBUG net.bubblyyi.base.config.listener.ApplicationEventListener - 初始化环境变量完成
+2017-07-15 21:47:24.882 [background-preinit] DEBUG org.jboss.logging - Logging Provider: org.jboss.logging.Slf4jLoggerProvider found via system property
+2017-07-15 21:47:34.448 [restartedMain] DEBUG net.sf.ehcache.config.ConfigurationFactory - Configuring ehcache from InputStream
+2017-07-15 21:47:34.508 [restartedMain] DEBUG net.sf.ehcache.config.BeanHandler - Ignoring ehcache attribute xmlns:xsi
+2017-07-15 21:47:34.508 [restartedMain] DEBUG net.sf.ehcache.config.BeanHandler - Ignoring ehcache attribute xsi:noNamespaceSchemaLocation
+2017-07-15 21:47:34.511 [restartedMain] DEBUG net.sf.ehcache.config.DiskStoreConfiguration - Disk Store Path: C:\Users\ADMINI~1\AppData\Local\Temp\
+2017-07-15 21:47:34.589 [restartedMain] DEBUG net.sf.ehcache.util.PropertyUtil - propertiesString is null.
+2017-07-15 21:47:34.614 [restartedMain] DEBUG net.sf.ehcache.config.ConfigurationHelper - No CacheManagerEventListenerFactory class specified. Skipping...
+2017-07-15 21:47:35.006 [restartedMain] DEBUG net.sf.ehcache.Cache - No BootstrapCacheLoaderFactory class specified. Skipping...
+2017-07-15 21:47:35.007 [restartedMain] DEBUG net.sf.ehcache.Cache - CacheWriter factory not configured. Skipping...
+2017-07-15 21:47:35.007 [restartedMain] DEBUG net.sf.ehcache.config.ConfigurationHelper - No CacheExceptionHandlerFactory class specified. Skipping...
+2017-07-15 21:47:35.040 [restartedMain] DEBUG net.sf.ehcache.Cache - No BootstrapCacheLoaderFactory class specified. Skipping...
+2017-07-15 21:47:35.041 [restartedMain] DEBUG net.sf.ehcache.Cache - CacheWriter factory not configured. Skipping...
+2017-07-15 21:47:35.041 [restartedMain] DEBUG net.sf.ehcache.config.ConfigurationHelper - No CacheExceptionHandlerFactory class specified. Skipping...
+2017-07-15 21:47:35.043 [restartedMain] WARN  net.sf.ehcache.config.CacheConfiguration - Configuration problem for cache resourceCache: MaxEntriesLocalHeap equal or greater than MaxEntriesLocalDisk. This will result in useless disk storage.
+2017-07-15 21:47:35.087 [restartedMain] DEBUG net.sf.ehcache.DiskStorePathManager - Using diskstore path C:\Users\ADMINI~1\AppData\Local\Temp
+2017-07-15 21:47:35.088 [restartedMain] DEBUG net.sf.ehcache.DiskStorePathManager - Holding exclusive lock on C:\Users\ADMINI~1\AppData\Local\Temp\.ehcache-diskstore.lock
+2017-07-15 21:47:35.091 [restartedMain] DEBUG net.sf.ehcache.store.disk.DiskStorageFactory - Failed to delete file resource%0043ache.index
+2017-07-15 21:47:35.130 [restartedMain] DEBUG net.sf.ehcache.store.disk.DiskStorageFactory - Matching data file missing (or empty) for index file. Deleting index file C:\Users\ADMINI~1\AppData\Local\Temp\resource%0043ache.index
+2017-07-15 21:47:35.131 [restartedMain] DEBUG net.sf.ehcache.store.disk.DiskStorageFactory - Failed to delete file resource%0043ache.index
+2017-07-15 21:47:35.395 [restartedMain] DEBUG net.sf.ehcache.statistics.extended.ExtendedStatisticsImpl - Mocking Pass-Through Statistic: LOCAL_OFFHEAP_SIZE
+2017-07-15 21:47:35.398 [restartedMain] DEBUG net.sf.ehcache.statistics.extended.ExtendedStatisticsImpl - Mocking Pass-Through Statistic: LOCAL_OFFHEAP_SIZE_BYTES
+2017-07-15 21:47:35.400 [restartedMain] DEBUG net.sf.ehcache.statistics.extended.ExtendedStatisticsImpl - Mocking Pass-Through Statistic: WRITER_QUEUE_LENGTH
+2017-07-15 21:47:35.400 [restartedMain] DEBUG net.sf.ehcache.statistics.extended.ExtendedStatisticsImpl - Mocking Pass-Through Statistic: REMOTE_SIZE
+2017-07-15 21:47:35.401 [restartedMain] DEBUG net.sf.ehcache.statistics.extended.ExtendedStatisticsImpl - Mocking Pass-Through Statistic: LAST_REJOIN_TIMESTAMP
+2017-07-15 21:47:35.436 [restartedMain] DEBUG net.sf.ehcache.statistics.extended.ExtendedStatisticsImpl - Mocking Operation Statistic: OFFHEAP_GET
+2017-07-15 21:47:35.439 [restartedMain] DEBUG net.sf.ehcache.statistics.extended.ExtendedStatisticsImpl - Mocking Operation Statistic: OFFHEAP_PUT
+2017-07-15 21:47:35.440 [restartedMain] DEBUG net.sf.ehcache.statistics.extended.ExtendedStatisticsImpl - Mocking Operation Statistic: OFFHEAP_REMOVE
+2017-07-15 21:47:35.443 [restartedMain] DEBUG net.sf.ehcache.statistics.extended.ExtendedStatisticsImpl - Mocking Operation Statistic: XA_COMMIT
+2017-07-15 21:47:35.444 [restartedMain] DEBUG net.sf.ehcache.statistics.extended.ExtendedStatisticsImpl - Mocking Operation Statistic: XA_ROLLBACK
+2017-07-15 21:47:35.445 [restartedMain] DEBUG net.sf.ehcache.statistics.extended.ExtendedStatisticsImpl - Mocking Operation Statistic: XA_RECOVERY
+2017-07-15 21:47:35.447 [restartedMain] DEBUG net.sf.ehcache.statistics.extended.ExtendedStatisticsImpl - Mocking Operation Statistic: CLUSTER_EVENT
+2017-07-15 21:47:35.448 [restartedMain] DEBUG net.sf.ehcache.statistics.extended.ExtendedStatisticsImpl - Mocking Operation Statistic: NONSTOP
+2017-07-15 21:47:35.468 [restartedMain] DEBUG net.sf.ehcache.Cache - Initialised cache: resourceCache
+2017-07-15 21:47:35.468 [restartedMain] DEBUG net.sf.ehcache.config.ConfigurationHelper - CacheDecoratorFactory not configured. Skipping for 'resourceCache'.
+2017-07-15 21:47:35.469 [restartedMain] DEBUG net.sf.ehcache.config.ConfigurationHelper - CacheDecoratorFactory not configured for defaultCache. Skipping for 'resourceCache'.
+2017-07-15 21:47:39.496 [restartedMain] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} inited
+2017-07-15 21:47:41.737 [restartedMain] WARN  org.hibernate.mapping.RootClass - HHH000038: Composite-id class does not override equals(): net.bubblyyi.base.entity.BorrowBook
+2017-07-15 21:47:41.737 [restartedMain] WARN  org.hibernate.mapping.RootClass - HHH000039: Composite-id class does not override hashCode(): net.bubblyyi.base.entity.BorrowBook
+2017-07-15 21:47:49.337 [restartedMain] INFO  org.apache.catalina.core.StandardService - Starting service Tomcat
+2017-07-15 21:47:49.339 [restartedMain] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet Engine: Apache Tomcat/8.5.6
+2017-07-15 21:47:49.744 [localhost-startStop-1] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2017-07-15 21:48:06.731 [restartedMain] DEBUG net.bubblyyi.base.config.listener.ApplicationEventListener - 应用刷新
+2017-07-15 21:48:06.779 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8855"]
+2017-07-15 21:48:06.837 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler [http-nio-8855]
+2017-07-15 21:48:06.881 [restartedMain] INFO  org.apache.tomcat.util.net.NioSelectorPool - Using a shared selector for servlet write/read
+2017-07-15 21:48:06.965 [restartedMain] DEBUG net.bubblyyi.base.config.listener.ApplicationEventListener - 应用已启动完成
+2017-07-15 21:48:06.966 [restartedMain] INFO  net.bubblyyi.base.Application - Started Application in 48.5 seconds (JVM running for 50.747)
+2017-07-15 21:48:06.967 [restartedMain] DEBUG net.bubblyyi.base.Application - 启动成功
